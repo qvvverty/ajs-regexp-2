@@ -1,4 +1,3 @@
-import { TestScheduler } from 'jest';
 import formatPhoneNumber from '../app';
 
 const phoneNumbers = [
