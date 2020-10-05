@@ -1,5 +1,3 @@
-import './css/style.css';
+// import formatPhoneNumber from './js/app.js';
 
-import './js/app';
-
-// TODO: write your code in app.js
+// formatPhoneNumber('+7 960 000 00 00');
